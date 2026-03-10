@@ -1,0 +1,17 @@
+.redColor {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+span.redColor {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}   
+
+#specificLink{
+    color:chartreuse;
+    font-family: sans-serif;
+    font-style: italic;
+}
